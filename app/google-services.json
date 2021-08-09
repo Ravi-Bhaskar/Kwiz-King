@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "619293215773",
+    "project_id": "kwizking-d885f",
+    "storage_bucket": "kwizking-d885f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:619293215773:android:072892ec6a224054450af4",
+        "android_client_info": {
+          "package_name": "com.raam.kwizking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "619293215773-0sqbl0r02nqmd7m2siiu8mu004l03o90.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAve3fJPTlFLgTWecPe0sc-tqki_ihtBF0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "619293215773-0sqbl0r02nqmd7m2siiu8mu004l03o90.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

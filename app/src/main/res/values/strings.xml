@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Kwiz King</string>
+    <string name="title">KWIZ KING</string>
+    <string name="login">LOGIN</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="create_an_account">CREATE AN ACCOUNT</string>
+    <string name="forgot_pass">Forgot Password ?</string>
+    <string name="forgot_password">FORGOT PASSWORD</string>
+    <string name="back_to_login">BACK TO LOGIN</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="logout">LOGOUT</string>
+
+    <string name="policy_message">By Signing Up You Agree To Our Privacy Policy &amp; Terms and Conditions</string>
+</resources>
