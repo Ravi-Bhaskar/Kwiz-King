@@ -1,5 +1,7 @@
 # Kwiz-King
 
+![Splash Screen](https://user-images.githubusercontent.com/78037912/129005432-717670af-84f5-4086-9b41-9eef3db8ae86.gif)
+
 ![Bottom bar Updated](https://user-images.githubusercontent.com/78037912/129003738-f426becc-57e3-458e-be0f-417d57694b1a.gif)
 
 ![Quiz Updated](https://user-images.githubusercontent.com/78037912/129004205-9707de76-7ba2-4f1d-ad8d-a694a4c77705.gif)
