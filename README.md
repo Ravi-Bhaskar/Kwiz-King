@@ -13,3 +13,6 @@
 
 
 ![Spin Wheel](https://user-images.githubusercontent.com/78037912/129005177-7e52f943-1cdf-4073-9404-f63e9ce3b41c.gif)
+
+
+[Kwiz King Presenatation.pptx](https://github.com/Ravi-Bhaskar/Kwiz-King/files/6967800/Kwiz.King.Presenatation.pptx)
