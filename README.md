@@ -1,12 +1,6 @@
 # Kwiz-King
 
 
-# Kwiz King Presentation
-
-[Kwiz King Presenatation.pptx](https://github.com/Ravi-Bhaskar/Kwiz-King/files/6967800/Kwiz.King.Presenatation.pptx)
-
-
-
 
 
 ![Splash Screen](https://user-images.githubusercontent.com/78037912/129005432-717670af-84f5-4086-9b41-9eef3db8ae86.gif)
@@ -23,3 +17,8 @@
 
 ![Spin Wheel](https://user-images.githubusercontent.com/78037912/129005177-7e52f943-1cdf-4073-9404-f63e9ce3b41c.gif)
 
+
+
+# Kwiz King Presentation
+
+[Kwiz King Presenatation.pptx](https://github.com/Ravi-Bhaskar/Kwiz-King/files/6967800/Kwiz.King.Presenatation.pptx)
