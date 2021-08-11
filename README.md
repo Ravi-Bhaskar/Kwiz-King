@@ -2,6 +2,16 @@
 
 
 
+# In-App Features
+
+
+https://user-images.githubusercontent.com/78037912/129024764-6f5201c0-3b04-461c-8af4-d0a15a9f3b1f.mp4
+
+
+
+# Gif & Screenshot
+
+
 
 ![Splash Screen](https://user-images.githubusercontent.com/78037912/129005432-717670af-84f5-4086-9b41-9eef3db8ae86.gif)
 
@@ -16,6 +26,7 @@
 
 
 ![Spin Wheel](https://user-images.githubusercontent.com/78037912/129005177-7e52f943-1cdf-4073-9404-f63e9ce3b41c.gif)
+
 
 
 
